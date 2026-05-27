@@ -1,3 +1,4 @@
+# Pizza--Sales-Analysis
 This project analyzes a year's worth of pizza sales data to uncover **business insights, customer behavior, and product performance**.
 
 Using **SQL for data analysis**, **Excel for preprocessing**, and **Power BI for visualization**, I built an interactive dashboard that helps stakeholders make **data-driven decisions**.
